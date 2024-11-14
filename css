@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+div{
+    margin-left: 600px;
+    
+    background-color: cadetblue;
+    width: 500px;
+    padding: 100px 20px 20px;
+    height: 680px;
+    border-radius: 2px;
+    font-size: 1.2rem;
+    
+    
+
+}
+h1{
+    position: absolute;
+    bottom: 634px;
+    left: 755px;
+}
+#name , #mail ,#age,#dob,#depar,#gender,#adress,#pincode,#lang {
+    margin-left: 52px;
+}
+#txt{
+    margin-left: 50px;
+}
+input{
+    border-radius: 2px;
+ 
+}
+#check{
+   margin-left: 50px;
+   
+}
